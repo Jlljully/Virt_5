@@ -62,6 +62,8 @@ docker swarm update --autolock=true
 
 ### Ответ
 
+После перезагрузки ноды требуется разблокировать, чтоб добавить обратно
+
 ![Скрин](https://github.com/Jlljully/Virt_5/blob/main/Untitled4.png "1")
 
 ![Скрин](https://github.com/Jlljully/Virt_5/blob/main/Untitled7.png "1")
